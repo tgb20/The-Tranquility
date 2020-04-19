@@ -2,8 +2,8 @@
     "settings": {
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 976,
-        "worldScrollY": 86,
+        "worldScrollX": 900.6666870117188,
+        "worldScrollY": 731.3333129882812,
         "zoom": 200,
         "customColorsWhite": "E8F8E0",
         "customColorsLight": "B0F088",
@@ -27,23 +27,10 @@
             "collisions": [],
             "id": "22361f6b-d876-4aa6-b23b-ca83a6e2533d",
             "x": 676.5,
-            "y": 172.5,
+            "y": 173,
             "actors": [],
             "triggers": [],
             "script": [
-                {
-                    "id": "98aeaa7a-cf4a-4b0a-9bd8-6aaddb8e62fa",
-                    "command": "EVENT_MUSIC_STOP",
-                    "args": {}
-                },
-                {
-                    "id": "7987ec06-6c5e-4913-8a0f-371ef4f80417",
-                    "command": "EVENT_MUSIC_PLAY",
-                    "args": {
-                        "musicId": "533c2625-e912-4dd7-85a4-f5d98eeeb68d",
-                        "loop": true
-                    }
-                },
                 {
                     "id": "8e22f173-616b-4eaf-bb6e-2c5989851fe5",
                     "command": "EVENT_ACTOR_HIDE",
@@ -702,7 +689,7 @@
                                                     "command": "EVENT_TEXT",
                                                     "args": {
                                                         "text": [
-                                                            "AI: Something went\nwrong!",
+                                                            "AI: I should stop\nsaying that!",
                                                             "AI: Go check the\nshield room!",
                                                             "AI: Talk to me\nagain when you\nfixed it..."
                                                         ],
@@ -2986,6 +2973,16 @@
                     "y": 9,
                     "script": [
                         {
+                            "id": "7d3e56e1-8a82-41a4-be0b-fe44dd0d447b",
+                            "command": "EVENT_SOUND_PLAY_EFFECT",
+                            "args": {
+                                "type": "tone",
+                                "pitch": 1,
+                                "frequency": 200,
+                                "duration": 0.25
+                            }
+                        },
+                        {
                             "id": "ecfc1b68-ff9b-4c06-a276-0396480b5052",
                             "command": "EVENT_TEXT",
                             "args": {
@@ -4065,7 +4062,7 @@
     "variables": [
         {
             "id": "9ffbc3c9-6cc5-4bac-a9b7-623476c9b29f__L0",
-            "name": "New Game"
+            "name": "NewGame"
         },
         {
             "id": "0",
@@ -4118,6 +4115,10 @@
         {
             "id": "a5474d0f-20a4-4682-819f-49094935cebf__L0",
             "name": "NewGame"
+        },
+        {
+            "id": "9ffbc3c9-6cc5-4bac-a9b7-623476c9b29f__L1",
+            "name": "Save"
         }
     ],
     "backgrounds": [
