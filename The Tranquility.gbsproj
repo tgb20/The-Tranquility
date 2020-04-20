@@ -2,9 +2,9 @@
     "settings": {
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 900.6666870117188,
-        "worldScrollY": 731.3333129882812,
-        "zoom": 200,
+        "worldScrollX": 1287.3333740234375,
+        "worldScrollY": 1257.3333740234375,
+        "zoom": 275,
         "customColorsWhite": "E8F8E0",
         "customColorsLight": "B0F088",
         "customColorsDark": "509878",
@@ -293,13 +293,13 @@
                 255,
                 255,
                 255,
-                3,
-                0,
+                243,
+                255,
                 60,
-                0,
-                192,
-                3,
-                0,
+                255,
+                207,
+                243,
+                255,
                 60,
                 0,
                 192,
@@ -4120,7 +4120,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "badcrewquarters.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "9c9de32a-a00a-4917-a094-9099498bd897",
@@ -4130,7 +4130,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "badengineroom.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "76c5b4c1-5454-472a-b82b-b69d582d9f2d",
@@ -4140,7 +4140,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "badshieldroom.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "97bae242-595d-4fd9-b0f3-28961e7d32f5",
@@ -4150,7 +4150,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "badweaponsroom.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "2073a385-1248-4935-a683-4d20b083ad90",
@@ -4160,7 +4160,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "blank.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "2cdcb95a-dcaa-43ac-833e-f2254f99d0f1",
@@ -4170,7 +4170,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "bridge.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "8060a4f4-c20a-4d91-8efb-87c6f8f6f96e",
@@ -4180,7 +4180,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "credits.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "5c18158d-d04e-47cb-9be6-02d28629cf8f",
@@ -4190,7 +4190,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "endscene.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "d68dc9b0-cb4b-47d6-86e4-5e10b0e7be4e",
@@ -4200,7 +4200,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "gameover.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "587cf7cb-eff8-4dbe-be72-4788d135da2d",
@@ -4210,7 +4210,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "goodcrewquarters.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "66a69453-d890-4802-aa06-515e4e733ecf",
@@ -4220,7 +4220,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "goodengineroom.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "7d7f0a3f-bfbf-4421-b68b-05768aa33db1",
@@ -4230,7 +4230,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "goodshieldroom.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "e29b61dd-cae3-4e2b-a6d5-f171bffd14fc",
@@ -4240,7 +4240,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "goodweaponsroom.png",
-            "_v": 1587327199269
+            "_v": 1587344508191
         },
         {
             "id": "0543bcf3-a664-4fb6-8bf7-7c88e5a9ed6f",
@@ -4250,7 +4250,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "hallway.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "6896896c-96a7-425b-adf1-99bab3dec9bc",
@@ -4260,7 +4260,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "logo.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "62547016-623b-4cbc-a3c3-dbefaf67b245",
@@ -4270,7 +4270,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "titlescreen.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         }
     ],
     "spriteSheets": [
@@ -4280,7 +4280,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "actor_animated.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "314c6fdf-f644-47d0-bb95-66802077fa01",
@@ -4288,7 +4288,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "alien.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "71d576d5-4be6-4bf3-9046-94917f499e71",
@@ -4296,7 +4296,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "banana.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "03e07d0e-c2bb-429a-8fa8-0884e671bdc0",
@@ -4304,7 +4304,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "battery.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "7b9269d1-cac5-4651-870b-d5eb41dfb4e6",
@@ -4312,7 +4312,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "beachball.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "de455246-c65b-4b1e-9c37-aaa557d82a7d",
@@ -4320,7 +4320,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "buff.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "a1979645-8e23-4c76-aaae-5cc93d16b31f",
@@ -4328,7 +4328,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "glove.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "3bf981fc-a734-4bad-9e9e-9e0eb1e034d6",
@@ -4336,7 +4336,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "hammer.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "5bf9d162-4a35-4fe2-9f12-cd6287d14851",
@@ -4344,7 +4344,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "mechanic.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "a9f57740-bf93-4227-bb99-304abb5f8406",
@@ -4352,7 +4352,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "robot.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "4323921a-1adc-4b25-81c4-a115b66fb20e",
@@ -4360,7 +4360,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "rocket.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "71cd642e-31d4-4878-a613-c90df19c4dbd",
@@ -4368,7 +4368,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "rocket_animated.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "fb6c35ec-8850-408d-bb0d-b6bc6fabb66e",
@@ -4376,7 +4376,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "shipai.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "bf6da877-12b7-4f1d-816e-f8389155e9ec",
@@ -4384,7 +4384,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "tape.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         },
         {
             "id": "96d1a8d1-4a22-4e18-913f-eb0d93bd2a12",
@@ -4392,7 +4392,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "wrench.png",
-            "_v": 1587327199270
+            "_v": 1587344508191
         }
     ],
     "music": [
@@ -4400,7 +4400,7 @@
             "id": "533c2625-e912-4dd7-85a4-f5d98eeeb68d",
             "name": "soundtrack",
             "filename": "soundtrack.mod",
-            "_v": 1587329599697
+            "_v": 1587344508187
         }
     ],
     "customEvents": []

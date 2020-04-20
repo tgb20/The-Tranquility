@@ -656,41 +656,41 @@ MODULES
 	FILE C:\tmp/_gbs/gbdk/lib/small/asxxxx/gb/crt0.o
 		NAME Runtime
 	FILE obj/BankData.o
-		NAME lcc168200
+		NAME lcc76840
 	FILE obj/BankManager.o
-		NAME lcc171480
+		NAME lcc85640
 	FILE obj/FadeManager.o
-		NAME lcc101960
+		NAME lcc121720
 	FILE obj/Math.o
-		NAME lcc137680
+		NAME lcc94480
 	FILE obj/MusicManager.o
-		NAME lcc138240
+		NAME lcc171080
 	FILE obj/Scene.o
-		NAME lcc134120
+		NAME lcc127800
 	FILE obj/Scene_b.o
-		NAME lcc20880
+		NAME lcc117880
 	FILE obj/ScriptRunner.o
-		NAME lcc17240
+		NAME lcc88360
 	FILE obj/ScriptRunner_b.o
-		NAME lcc12360
+		NAME lcc117720
 	FILE obj/SpriteHelpers.o
-		NAME lcc141200
+		NAME lcc73080
 	FILE obj/Stack.o
-		NAME lcc96240
+		NAME lcc132240
 	FILE obj/UI.o
-		NAME lcc90720
+		NAME lcc9040
 	FILE obj/UI_b.o
-		NAME lcc127440
+		NAME lcc86160
 	FILE obj/game.o
-		NAME lcc26120
+		NAME lcc47840
 	FILE obj/gbt_player.o
 	FILE obj/gbt_player_bank1.o
 	FILE obj/data/bank_6.o
-		NAME lcc69840
+		NAME lcc171280
 	FILE obj/data/bank_7.o
-		NAME lcc42640
+		NAME lcc4600
 	FILE obj/data/data_ptrs.o
-		NAME lcc28560
+		NAME lcc82000
 LIBRARIES
 	LIBRARY C:\tmp/_gbs/gbdk/lib/small/asxxxx/gbz80/gbz80.lib
 		MODULE crt0_rle.o
